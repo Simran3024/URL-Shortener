@@ -68,8 +68,6 @@ Visit /stats/[code] to see click analytics for shortened URLs.
 ✨ Bonus Features Implemented
 JWT-based user login and tracking URLs per user – Each user has their own URL dashboard.
 
-Paginated URL History for logged-in user – Users can view all their shortened URLs in a paginated format.
-
 Click-level tracking (IP, timestamps) – The app records IP address and timestamp for every click on shortened URLs.
 
 Clean UI/UX polish using Tailwind CSS – Minimal and responsive frontend styling.
